@@ -2,12 +2,13 @@
 
 Lemi AI is a super simple desktop application that serves as a web wrapper for a Custom GPT specializing in Helpdesk Customer Support. Made using Tauri and Rust.
 
+__To use it, you need to have ChatGPT Plus account.__
+
 ## Features
 
 - Seamless integration of a Custom GPT for Helpdesk Customer Support
 - Desktop application with web technologies
 - Cross-platform compatibility (Windows, macOS, Linux)
-- Refresh functionality for easy content updates
 
 ## Development
 
